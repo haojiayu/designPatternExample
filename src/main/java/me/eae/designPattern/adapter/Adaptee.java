@@ -1,4 +1,4 @@
-package com.eae.adapter;
+package me.eae.designPattern.adapter;
 
 /**
  * Created by 郝家雨 on 2018/3/19.
