@@ -1,4 +1,4 @@
-package com.eae.proxy;
+package me.eae.designPattern.proxy;
 
 /**
  * Created by 郝家雨 on 2018/3/16.

@@ -1,4 +1,4 @@
-package com.eae.templateMethod;
+package me.eae.designPattern.templateMethod;
 
 /**
  * Created by 郝家雨 on 2018/3/16.

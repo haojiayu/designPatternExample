@@ -1,4 +1,4 @@
-package com.eae.factoryMethod;
+package me.eae.designPattern.factoryMethod;
 
 /**
  * Created by 郝家雨 on 2018/3/16.

@@ -1,4 +1,4 @@
-package com.eae.observer;
+package me.eae.designPattern.observer;
 
 /**
  * Created by 郝家雨 on 2018/3/17.

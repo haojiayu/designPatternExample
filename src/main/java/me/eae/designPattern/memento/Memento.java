@@ -1,4 +1,4 @@
-package com.eae.memento;
+package me.eae.designPattern.memento;
 
 /**
  * Created by 郝家雨 on 2018/3/24.

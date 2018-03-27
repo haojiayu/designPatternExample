@@ -1,4 +1,4 @@
-package com.eae.simpleFactory;
+package me.eae.designPattern.simpleFactory;
 
 /**
  * Created by 郝家雨 on 2018/3/14.

@@ -1,4 +1,4 @@
-package com.eae.observer;
+package me.eae.designPattern.observer;
 
 import java.util.ArrayList;
 import java.util.List;
